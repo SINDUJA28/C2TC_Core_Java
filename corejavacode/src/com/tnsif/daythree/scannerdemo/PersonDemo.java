@@ -1,4 +1,4 @@
-package daythree.scannerdemo;
+package com.tnsif.daythree.scannerdemo;
 
 import java.util.Scanner;
 

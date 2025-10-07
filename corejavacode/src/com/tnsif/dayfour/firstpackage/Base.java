@@ -1,5 +1,5 @@
 //Program to demonstrate Package and access modifiers
-package dayfour.firstpackage;
+package com.tnsif.dayfour.firstpackage;
 
 public class Base {
 	/*
